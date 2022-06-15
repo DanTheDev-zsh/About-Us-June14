@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* class- header global */
+/* class- header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,8 +29,8 @@ body {
     color: #d9dcd6;
 }
 
-/* div class- header */
-.header div {
+/* table class- header */
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,13 +38,13 @@ body {
     font-size: 20px;
 }
 
-/* div ul class- header */
-.header div ul {
+/* table ul class- header */
+.header section ul {
     list-style-type: none;
 }
 
-/* div ul li class- header */
-.header div ul li {
+/* table ul li class- header */
+.header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
