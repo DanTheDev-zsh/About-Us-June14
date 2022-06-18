@@ -1,4 +1,4 @@
-# Code Refactor
+# Code Refactor - About Us
 Github link: https://github.com/DanTheDev-zsh/my-mock-portfolio
 
 
