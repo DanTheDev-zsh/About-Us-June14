@@ -26,10 +26,10 @@ body {
 
 /* h1 class- header, seo  */
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #2997be;
 }
 
-/* table class- header */
+/* section class- header */
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,12 +38,12 @@ body {
     font-size: 20px;
 }
 
-/* table ul class- header */
+/* section ul class- header */
 .header section ul {
     list-style-type: none;
 }
 
-/* table ul li class- header */
+/* section ul li class- header */
 .header section ul li {
     display: inline-block;
     margin-left: 25px;
